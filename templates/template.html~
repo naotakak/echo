@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hi</title>
+  </head>
+
+  <body>
+    <form action = "get">
+      <input type = "text"></input>
+      <input type = "submit"></input>
+    </form>
+  </body>
+</html>
